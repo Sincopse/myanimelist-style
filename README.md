@@ -1,6 +1,6 @@
 # myanimelist-style
 
-Hey this my myanimelist custom css I made.
+Hey, this my custom css I made for myanimelist.
 
 **How to use**
 > • Make sure you change the custom profile pic to yours at line 55.
