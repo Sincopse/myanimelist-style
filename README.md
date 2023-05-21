@@ -8,5 +8,5 @@ Hey, this my custom css I made for myanimelist.
 > • Save the changes and you're done.
 
 **Customizing**
-> • Make sure you change the custom profile pic to yours at line 55.<br>
+> • Make sure you change the custom profile pic to yours at line 57.<br>
 > • You can also change it to light theme just by uncommenting the ligh theme variables on the start of the code.
